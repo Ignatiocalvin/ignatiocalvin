@@ -30,8 +30,6 @@ I had undergraduate in Bioinformatics at the Freie University of Berlin and have
 📫 How to reach me: 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignatio-calvin-hidayat-b477491a1/)
-&nbsp;  
-
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ignacalvin@gmail.com)
 
 
