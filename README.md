@@ -23,7 +23,7 @@ I have undergraduate in Bioinformatics at the Freie University of Berlin and hav
 
 🎍 I'm currently learning: <b> Neural Networks using TensorFlow </b>
 
-📚 I'm currently reading: <b> Amusing Ourselves to Death, The Lean Startup </b>
+📚 I'm currently reading: <b> Human Compatible </b>
 
 🌊 What I want to learn & do next: <b> chatGPT API, kaggle projects, pursue a master's in Data Science </b>
 
