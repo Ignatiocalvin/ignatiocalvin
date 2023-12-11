@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 Hi there 🖖, 
 
-I have undergraduate in Bioinformatics at the Freie University of Berlin and have work experience as a Data Analyst. I am now making a switch in my career to become a Data Scientist / Machine Learning Engineer. You'll find my current status on my machine learning journey below:
+I'm currently studying Data Science at the University of Mannheim and have a strong interest in solving real-world problems using Machine Learning. You'll find my current status on my Machine Learning journey below:
 
-🌌 I'm currently working on: <b> A web app to detect user-uploaded workout videos and give feedback based on their performance </b>
+🌌 I'm currently working on: <b> Predicting Flight Delays based on weather and aircraft information with 6 million entries </b>
 
-🎍 I'm currently learning: <b> Neural Networks using TensorFlow </b>
+🎍 I'm currently learning: <b> Text Analytics </b>
 
 📚 I'm currently reading: <b> Human Compatible </b>
 
