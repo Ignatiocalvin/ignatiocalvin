@@ -19,13 +19,13 @@ Hi there 🖖,
 
 I'm currently studying Data Science at the University of Mannheim and have a strong interest in solving real-world problems using Machine Learning. You'll find my current status on my Machine Learning journey below:
 
-🌌 I'm currently working on: <b> Predicting Flight Delays based on weather and aircraft information with 6 million entries </b>
+🌌 I'm currently working on: <b>  </b>
 
-🎍 I'm currently learning: <b> Text Analytics </b>
+🎍 I'm currently learning: <b> generative Computer Vision </b>
 
 📚 I'm currently reading: <b> Human Compatible </b>
 
-🌊 What I want to learn & do next: <b> chatGPT API, kaggle projects, pursue a master's in Data Science </b>
+🌊 What I want to learn & do next: <b> Kaggle projects </b>
 
 📫 How to reach me: 
 
