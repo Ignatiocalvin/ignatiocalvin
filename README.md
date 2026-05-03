@@ -10,7 +10,7 @@ I am currently working in stealth mode on an AI-powered media processing applica
 * **Backend:** Python, FastAPI
 * **AI & Architecture:** OpenAI API, Asynchronous Workers, Media Processing Pipelines
 
-* ### 📊 GitHub Activity & Top Repositories
+### 📊 GitHub Activity & Top Repositories
 
 <div align="center">
   <a href="https://github.com/Ignatiocalvin">
