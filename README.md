@@ -12,7 +12,7 @@ I am currently working in stealth mode on an AI-powered media processing applica
 
 ### 📊 GitHub Activity & Top Repositories
 
-[![Ignatio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ignatiocalvin&show_icons=true&theme=radical&count_private=true)](https://github.com/Ignatiocalvin)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ignatiocalvin&theme=radical&hide_border=true)](https://github.com/Ignatiocalvin)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ignatiocalvin&layout=compact&theme=radical)](https://github.com/Ignatiocalvin)
 
 ### 📫 Connect with me
