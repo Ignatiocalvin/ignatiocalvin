@@ -10,6 +10,17 @@ I am currently working in stealth mode on an AI-powered media processing applica
 * **Backend:** Python, FastAPI
 * **AI & Architecture:** OpenAI API, Asynchronous Workers, Media Processing Pipelines
 
+* ### 📊 GitHub Activity & Top Repositories
+
+<div align="center">
+  <a href="https://github.com/Ignatiocalvin">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ignatiocalvin&show_icons=true&theme=radical" alt="Ignatio's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Ignatiocalvin">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ignatiocalvin&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+</div>
+
 ### 📫 Connect with me
 * 🌐 **Portfolio:** [ignacalvin.vercel.app](https://ignacalvin.vercel.app/)
 * 💼 **LinkedIn:** [Ignatio Calvin Hidayat](https://www.linkedin.com/in/ignatio-calvin-hidayat/)
