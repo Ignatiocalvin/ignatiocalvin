@@ -13,7 +13,13 @@ I am currently working in stealth mode on an AI-powered media processing applica
 ### 📊 GitHub Activity & Top Repositories
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ignatiocalvin&theme=radical&hide_border=true)](https://github.com/Ignatiocalvin)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Ignatiocalvin&layout=compact&theme=radical)](https://github.com/Ignatiocalvin)
+
+### 📊 Core Technologies
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
 ### 📫 Connect with me
 * 🌐 **Portfolio:** [ignacalvin.vercel.app](https://ignacalvin.vercel.app/)
